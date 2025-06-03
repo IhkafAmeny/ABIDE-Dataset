@@ -17,8 +17,8 @@ This project provides a Python script designed to run in **Google Colab**, enabl
 -  Download-ready from the Colab environment.
 
 ## References
-[ABIDE Preprocessed Project](http://preprocessed-connectomes-project.org/abide/)
-[Nilearn – fetch_abide_pcp Documentation](https://nilearn.github.io/stable/modules/generated/nilearn.datasets.fetch_abide_pcp.html)
+- [ABIDE Preprocessed Project](http://preprocessed-connectomes-project.org/abide/)
+- [Nilearn – fetch_abide_pcp Documentation](https://nilearn.github.io/stable/modules/generated/nilearn.datasets.fetch_abide_pcp.html)
 
 ## About
 This script was developed as part of a research project on brain MRI analysis, focusing on autism spectrum disorder detection using neuroimaging data.
