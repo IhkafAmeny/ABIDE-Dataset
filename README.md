@@ -1,6 +1,6 @@
 ## **Autism Brain Imaging Data Exchange Downloader and Preprocessor (CPAC Pipeline)**
 
-            ## This project provides Python scripts designed to run in Google Colab or locally
+             This project provides Python scripts designed to run in Google Colab or locally
 
 ## Features
  **1. ABIDE Downloader (CPAC Pipeline - Colab ready)**
