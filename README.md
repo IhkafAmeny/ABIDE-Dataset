@@ -1,6 +1,6 @@
 ## **Autism Brain Imaging Data Exchange Downloader and Preprocessor (CPAC Pipeline)**
 
-This project provides Python scripts designed to run in Google Colab or locally
+            ## This project provides Python scripts designed to run in Google Colab or locally
 
 ## Features
  **1. ABIDE Downloader (CPAC Pipeline - Colab ready)**
@@ -8,9 +8,9 @@ Automatically:
 - Downloads a subset of 250 subjects from the ABIDE dataset using the CPAC pipeline.
 - Extracts preprocessed functional MRI images (func_preproc).
 - Generates a clean .CSV file with subject-level phenotypic data :   
-      - Diagnosis (Autism / Control)
-      - Sex
-      - Age
+      - Diagnosis (Autism / Control)   
+      - Sex    
+      - Age  
 - Site of data acquisition
 - Compresses images and metadata into a .zip file for direct download from Colab.
 
