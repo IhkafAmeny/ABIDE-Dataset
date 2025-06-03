@@ -1,4 +1,4 @@
-**Autism Brain Imaging Data Exchange Downloader and Preprocessor (CPAC Pipeline)**
+## **Autism Brain Imaging Data Exchange Downloader and Preprocessor (CPAC Pipeline)**
 
 This project provides a Python script designed to run in **Google Colab**, enabling:
 
